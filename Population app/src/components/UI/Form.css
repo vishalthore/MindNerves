@@ -1,0 +1,25 @@
+form{
+    max-width: 500px;
+    margin: 2rem auto;
+}
+input{
+    width: 95%;
+    border-radius: 5px;
+    height: 2rem;
+    border-color: #009999;
+    margin: 5px;
+}
+button{
+    color: #006666;
+    margin: 7px;
+    width: 200px;
+    padding: 7px;
+    border: 1px solid #005f5f;
+    border-radius: 5px;
+    background-color: aliceblue;
+}
+button:hover{
+    background-color:#005f5f ;
+    color: antiquewhite;
+    cursor: pointer;
+}

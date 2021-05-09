@@ -1,0 +1,12 @@
+table, th, td{
+   border: 1px solid black;
+}
+table{
+
+    text-align: center;
+    max-width: 500px;
+    margin: 2rem auto;
+}
+th{
+   background-color: rgb(176, 91, 255);
+}
